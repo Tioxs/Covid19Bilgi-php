@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://i.hizliresim.com/yyGyUe.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.asdas{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 56pt;
+    letter-spacing: 40;
+}
+.asdas1{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 37;
+    letter-spacing: 15;
+}
+.asdas2{
+    font-family: 'Playfair Display', serif;
+    font-size: 40pt;
+    letter-spacing: 10;
+}
+.asdas3{
+    font-family: 'Cousine', monospace;
+    font-size: 35;
+    letter-spacing: 5px;
+}
