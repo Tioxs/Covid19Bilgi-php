@@ -1,5 +1,5 @@
 # YENİ REPO 
-https://github.com/Tioxs/Covid-19-Information
+https://github.com/Tioxs/Covid19Bilgi
 
 
 # Covid19Bilgi
